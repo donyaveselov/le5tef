@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Online 3D Wardrobe<br>👯 I’m looking for cooperation with online clothing stores<br>🌱 I’m currently learning Three.js
-
 [donya.dev](https://donya.dev) / [wax 3d promo](https://wax.donya.dev)
 
 ## 🌐 Socials:
